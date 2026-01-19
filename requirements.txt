@@ -3,3 +3,4 @@ uvicorn
 torch
 transformers
 streamlit
+numpy==1.26.4
